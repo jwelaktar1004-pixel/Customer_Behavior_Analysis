@@ -7,6 +7,8 @@
 * **73%** of customers are **non-subscribers**, while **27%** have active subscriptions.
 * **Young adults** and **male customers** contribute the most to revenue.
 
+Power Bi Service Dashboard Link : https://app.powerbi.com/links/8P32uCBNuN?ctid=b2d3e9a6-6a46-410a-af06-8d8f20cc8a99&pbi_source=linkShare
+
 
  ⚙️ **Objectives**
 
